@@ -45,12 +45,11 @@ __Inglés__ Avanzado
 
 ## Experiencia
 
- __Líder de desarrollo en Binary One__ `Enero de 2017 - Actualmente`  
+ __Líder de desarrollo en Binary One-Liverpool__ `Enero de 2017 - Actualmente`  
  
-  Encargado de diseñar sistemas de digitalización de procesos. Desarrollo e implemento servicios de back-end, implementar patrones de diseño para los sistemas, integración de ambientes, puesta en produccion de los sistemas. Desarrollo Front-end.
- 
- __Fullstack Developer & co-founder en mosi.com.mx__ `Octubre de 2016 - Actualmente` 
- 
+ Cree junto a un  Encargado de diseñar sistemas de digitalización de procesos. Desarrollo e implemento servicios de back-end, implementar patrones de diseño para los sistemas, integración de ambientes, puesta en produccion de los sistemas. Desarrollo Front-end.
+  Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
+  
   Encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma         administrativa web usando Angular.
 
  __Desarrollador Web__ `Enero de 2016 - Abril 2016`
