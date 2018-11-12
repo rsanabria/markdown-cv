@@ -40,17 +40,12 @@ __Ingeniería en Computación Facutlad de Ingeniería, UNAM.__
 ## Experiencia
 
 `2016-`
-Fullstack Developer en mosi.com.mx, encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma administrativa web.
+<p>Fullstack Developer en mosi.com.mx, encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma administrativa web.</p>
 `2017-`
-Líder de desarrollo en Binary One, encargado de diseñar sistemas de digitalización de procesos. Encargado de desarrollar e implementar servicios de back-end, implementar patrones de diseño para los sistemas, integración de ambientes, puesta en produccion de los sistemas. Desarrollo Front-end.
+<p>Líder de desarrollo en Binary One, encargado de diseñar sistemas de digitalización de procesos. Encargado de desarrollar e implementar servicios de back-end, implementar patrones de diseño para los sistemas, integración de ambientes, puesta en produccion de los sistemas. Desarrollo Front-end.</p>
 
 
 
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
