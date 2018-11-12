@@ -37,23 +37,23 @@ __Inglés__ Avanzado
 ## Educación
 
 `2012-2016`
-__Ingeniería en Computación, Facultad de Ingeniería, UNAM.__
+ Ingeniería en Computación, Facultad de Ingeniería, UNAM.
 
 `2016-2017`
-__Diplomado en finanzas, Facultad de Administración, UNAM.__
+ Diplomado en finanzas, Facultad de Administración, UNAM.
 
 
 ## Experiencia
 
- Líder de desarrollo en Binary One `Enero de 2017 - Actualmente`  
+ __Líder de desarrollo en Binary One__ `Enero de 2017 - Actualmente`  
  
   Encargado de diseñar sistemas de digitalización de procesos. Desarrollo e implemento servicios de back-end, implementar patrones de diseño para los sistemas, integración de ambientes, puesta en produccion de los sistemas. Desarrollo Front-end.
  
- Fullstack Developer en mosi.com.mx `Octubre de 2016 - Actualmente` 
+ __Fullstack Developer & co-founder en mosi.com.mx__ `Octubre de 2016 - Actualmente` 
  
   Encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma         administrativa web usando Angular.
 
- Desarrollador Web `Enero de 2016 - Abril 2016`
+ __Desarrollador Web__ `Enero de 2016 - Abril 2016`
  
  Creación de sitios web utilizando angular 1.5 con bootstrap como framework.
 
