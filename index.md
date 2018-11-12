@@ -19,14 +19,17 @@ Líder de desarrollo en un pequeño equipo que desarrolla sistemas de digitaliza
 
 Creación de API's, Desarrollo Front-end, Bases de datos.
 
+## Intereses
+
+Arquitectura de sistemas, patrones de diseño, dev-ops.
 
 ## Conocimientos en
 
   __Avanzado__ Javascript, Node.JS, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx, Git, HTML/CSS.
   
-  __Intermedio__  Kotlin Android, Java, Python, Docker, Docker-compose.
+  __Intermedio__  Kotlin Android, Java,RXJS, RXJAVA, Python, Docker, Docker-compose.
   
-  __Básico__  Go, Jenkins.
+  __Básico__  Go, GRPC, Jenkins.
   
 
 ## Skills
@@ -53,7 +56,8 @@ __Inglés__ Avanzado
   
   __Desarrollador Fullstack y Co-Founder en mosi__ `Octubre de 2017 - Actualmente`
   
-  Encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma         administrativa web usando Angular.
+  Encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma         administrativa web.
+  Herramientas: Node.js, MongoDB, Angular, HTML/CSS, Bootstrap.css
 
  __Desarrollador Web__ `Enero de 2016 - Abril 2016`
  
