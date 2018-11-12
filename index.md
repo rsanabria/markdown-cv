@@ -14,18 +14,18 @@ Ingeniero de Software.
 
 Líder de desarrollo en un pequeño equipo que desarrolla sistemas de digitalización industrial y Fullstack Developer en mosi.com.mx
 
-### Especializado en
+## Especializado en
 
 Creación de API's, Desarrollo Front-end, Bases de datos.
 
 
-### Conocimientos en
+## Conocimientos en
 
 __Avanzado__ Javascript, Node.JS, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx, Git, HTML/CSS.
 __Intermedio__ Kotlin Android, Java, Docker, Docker-compose.
 __Básico__ Go, Jenkins.
 
-### Skills
+## Skills
  Resolución de Problemas, autodidacta, rápido aprendizaje, trabajo en equipo.
  
 ## Idiomas
