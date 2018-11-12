@@ -45,11 +45,11 @@ __Diplomado en finanzas, Facultad de Administración, UNAM.__
 
 ## Experiencia
 
- Líder de desarrollo en Binary One, `Enero de 2017- Actualmente`  
+ Líder de desarrollo en Binary One `Enero de 2017 - Actualmente`  
  
   Encargado de diseñar sistemas de digitalización de procesos. Desarrollo e implemento servicios de back-end, implementar patrones de diseño para los sistemas, integración de ambientes, puesta en produccion de los sistemas. Desarrollo Front-end.
  
- Fullstack Developer en mosi.com.mx ` Octubre de 2016- Actualmente` 
+ Fullstack Developer en mosi.com.mx `Octubre de 2016 - Actualmente` 
  
   Encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma         administrativa web usando Angular.
 
