@@ -1,45 +1,35 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rodrigo Sanabria
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Rodrigo Sanabria
+Ingeniero de Software.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="r.sanabriadc@gmail.com">r.sanabriadc@gmail.com</a>
 </div>
 
 
-## Currently
+## Actualmente
 
-Standing on the shoulders of giants
+Líder de desarrollo en un equipo de freelancers.
 
-### Specialized in
+### Especializado en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Creación de API's, Desarrollo Front-end, Bases de datos
 
 
-## Education
+### Conocimientos en
 
-`1654-1660`
-__The King's School, Grantham.__
+__Avanzado__ Javascript, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx.
+__Intermedio__ Kotlin Android, Java, Docker, Docker-compose.
+__Básico__ Go
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
+## Educación
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2012-2016`
+__Ingeniería en Computación Facutlad de Ingeniería, UNAM.__
 
 
 ## Awards
