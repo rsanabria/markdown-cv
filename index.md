@@ -64,7 +64,7 @@ __Inglés__  Avanzado
 - Desarrollo Front-end.
 - Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux, Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
   
-  __Desarrollador Full Stack y Co-Founder  Mosi__ `Octubre de 2017 - Presente`
+ __Desarrollador Full Stack y Co-Founder  Mosi__ `Octubre de 2017 - Presente`
  
 - Responsable del diseño, desarrollo e implementación Back-end.
 - Desarrollo de plataforma web administrativa.
