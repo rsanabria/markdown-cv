@@ -26,14 +26,14 @@ Creación de API's, Desarrollo Front-end, Bases de datos.
 
  __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Presente`
  
-- Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.
+Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.<br>
 - Análisis de los requerimientos del cliente.
 - Desarrollo e implementación de servicios Back-end.
 - Implementación de patrones de diseño.
 - Integración de ambientes y puesta en producción.
 - Revisión de código en todos los niveles.
-- Desarrollo Front-end.
-- Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux, Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
+- Desarrollo Front-end.<br>
+Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux, Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
   
  __Full Stack Dev. y Co-Founder  Mosi__ `Octubre de 2017 - Presente`
  
