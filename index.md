@@ -10,9 +10,9 @@ Ingeniero de Software.
 </div>
 
 
-## Actualmente
+## Fullstack Developer
 
-Líder de desarrollo en un pequeño equipo que desarrolla sistemas de digitalización industrial y Fullstack Developer en mosi.com.mx
+Experiencia como líder en el desarrollo de sistemas de digitalización industrial y Fullstack Developer en Mosi.
 
 
 ## Especializado en
@@ -21,7 +21,7 @@ Creación de API's, Desarrollo Front-end, Bases de datos.
 
 ## Intereses
 
-Arquitectura de sistemas, patrones de diseño, dev-ops.
+Arquitectura de sistemas, patrones de diseño, DevOps.
 
 ## Conocimientos en
 
@@ -33,38 +33,43 @@ Arquitectura de sistemas, patrones de diseño, dev-ops.
   
 
 ## Skills
- Resolución de Problemas, autodidacta, rápido aprendizaje, comunicación, trabajo en equipo.
+ Resolución de problemas, autodidacta, rápido aprendizaje, comunicación, trabajo en equipo.
  
 ## Idiomas
 __Inglés__ Avanzado
  
 ## Educación
 
-`2012-2016`
- Ingeniería en Computación, Facultad de Ingeniería, UNAM.
+`Agosoto 2012 - Diciembre 2016`
+ Ingeniería en Computación, Facultad de Ingeniería, Universidad Nacional Autónoma de México.
 
 `2016-2017`
- Diplomado en finanzas, Facultad de Administración, UNAM.
+ Diplomado en Finanzas, Facultad de Administración, Universidad Nacional Autónoma de México.
 
 
 ## Experiencia
 
- __Líder de desarrollo en Binary One-Liverpool__ `Enero de 2017 - Actualmente`
+ __Líder de desarrollo | Binary One - Liverpool__ `Enero de 2017 - Presente`
  
- Cree junto a un socio, un pequeño equipo de programadores con la tarea de desarrollar un sistema a digitalizar auditorías internas a Liverpool, el sistema lleva un año en producción y hemos desarrollado 2 sistemas más, uno de ellos ha sido un sistema paperless para varios procesos internos el cual esta actualmente en fase de pruebas. Mi funciones son analizar los requerimientos del cliente, desarrollar e implementar servicios de back-end, implementar patrones de diseño para los sistemas, integración de ambientes y puesta en produccion de los sistemas, revisión de código en todos los niveles, así como desarrollo Front-end.
-  Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux, Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
+Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.
+Análisis de los requerimientos del cliente.
+Desarrollo e implementación de servicios Back-end.
+Implementación de patrones de diseño.
+Integración de ambientes y puesta en producción.
+Revisión de código en todos los niveles.
+Desarrollo Front-end.
+Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux, Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
   
-  __Desarrollador Fullstack y Co-Founder en mosi__ `Octubre de 2017 - Actualmente`
-  
-  Encargado de diseñar, desarrollar e implementar el back-end para la aplicación, asi como desarrollar una plataforma         administrativa web.
-  Herramientas: Node.js, MongoDB, Angular, HTML/CSS, Bootstrap.css
+  __Desarrollador Fullstack y Co-Founder | Mosi__ `Octubre de 2017 - Presente`
+ 
+Responsable del diseño, desarrollo e implementación Back-end.
+Desarrollo de plataforma web administrativa.
+Herramientas: Node.js, MongoDB, Angular, HTML/CSS, Bootstrap.css.
 
  __Desarrollador Web__ `Enero de 2016 - Abril 2016`
  
- Creación de sitios web utilizando angular 1.5 con bootstrap como framework.
-
-
-
+ Desarrollo de sitios web.
+ Herramientas: Angular 1.5, Bootstrap.css.
 
 
 
