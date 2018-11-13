@@ -43,10 +43,12 @@ __Inglés__  Avanzado
 ## Educación
 
 `Agosoto 2012 - Diciembre 2016`
- Ingeniería en Computación, Facultad de Ingeniería, Universidad Nacional Autónoma de México.
+ Ingeniería en Computación, Facultad de Ingeniería<br>
+ Universidad Nacional Autónoma de México.
 
 `Noviembre 2016 - Mayo 2017`
- Diplomado en Finanzas, Facultad de Administración, Universidad Nacional Autónoma de México.
+ Diplomado en Finanzas, Facultad de Administración<br>
+ Universidad Nacional Autónoma de México.
 
 
 ## Experiencia
