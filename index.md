@@ -17,7 +17,7 @@ Ingeniero de Software
 Experiencia como líder de desarrollo. Arquitectura de sistemas. Análisis de los requerimientos del cliente. Desarrollador Full Stack.
 
 
-## Especializado en
+## Especialista
 
 Creación de API's, Desarrollo Front-end, Bases de datos.
 
