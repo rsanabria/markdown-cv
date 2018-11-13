@@ -8,6 +8,7 @@ Ingeniero de Software
 <div id="webaddress">
 <a href="r.sanabriadc@gmail.com">r.sanabriadc@gmail.com</a>
 </div>
+55 8597 6336
 
 
 ## Perfil
@@ -43,7 +44,7 @@ __Inglés__  Avanzado
 `Agosoto 2012 - Diciembre 2016`
  Ingeniería en Computación, Facultad de Ingeniería, Universidad Nacional Autónoma de México.
 
-`2016-2017`
+`Noviemnre 2016 - Mayo 2017`
  Diplomado en Finanzas, Facultad de Administración, Universidad Nacional Autónoma de México.
 
 
