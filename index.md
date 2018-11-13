@@ -49,7 +49,7 @@ __Inglés__ Avanzado
 
 ## Experiencia
 
- __Líder de desarrollo | Binary One - Liverpool__ `Enero de 2017 - Presente`
+ __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Presente`
  
 Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.
 Análisis de los requerimientos del cliente.
@@ -60,7 +60,7 @@ Revisión de código en todos los niveles.
 Desarrollo Front-end.
 Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux, Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
   
-  __Desarrollador Fullstack y Co-Founder | Mosi__ `Octubre de 2017 - Presente`
+  __Desarrollador Fullstack y Co-Founder  Mosi__ `Octubre de 2017 - Presente`
  
 Responsable del diseño, desarrollo e implementación Back-end.
 Desarrollo de plataforma web administrativa.
