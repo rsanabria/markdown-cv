@@ -52,7 +52,7 @@ __Inglés__  Avanzado
 
  __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Presente`
  
-Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.<br>
+Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.
 Análisis de los requerimientos del cliente.
 Desarrollo e implementación de servicios Back-end.
 Implementación de patrones de diseño.
