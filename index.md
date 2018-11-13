@@ -3,7 +3,7 @@ layout: cv
 title: Rodrigo Sanabria
 ---
 # Rodrigo Sanabria
-Ingeniero de Software.
+Ingeniero de Software
 
 <div id="webaddress">
 <a href="r.sanabriadc@gmail.com">r.sanabriadc@gmail.com</a>
@@ -25,7 +25,7 @@ Arquitectura de sistemas, patrones de diseño, DevOps.
 
 ## Conocimientos en
 
-  __Avanzado__ Javascript, Node.JS, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx, Git, HTML/CSS.
+  __Avanzado__  Javascript, Node.JS, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx, Git, HTML/CSS.
   
   __Intermedio__  Kotlin Android, Java,RXJS, RXJAVA, Python, Docker, Docker-compose.
   
@@ -36,7 +36,7 @@ Arquitectura de sistemas, patrones de diseño, DevOps.
  Resolución de problemas, autodidacta, rápido aprendizaje, comunicación, trabajo en equipo.
  
 ## Idiomas
-__Inglés__ Avanzado
+__Inglés__  Avanzado
  
 ## Educación
 
@@ -51,7 +51,7 @@ __Inglés__ Avanzado
 
  __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Presente`
  
-Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.
+Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.<br>
 Análisis de los requerimientos del cliente.
 Desarrollo e implementación de servicios Back-end.
 Implementación de patrones de diseño.
