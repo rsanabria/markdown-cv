@@ -10,9 +10,9 @@ Ingeniero de Software.
 </div>
 
 
-## Fullstack Developer
+## Perfil
 
-Experiencia como líder en el desarrollo de sistemas de digitalización industrial y Fullstack Developer en Mosi.
+Experiencia como líder de desarrollo. Arquitectura de sistemas. Análisis de los requerimientos del cliente. Full Stack Developer.
 
 
 ## Especializado en
