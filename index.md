@@ -47,7 +47,7 @@ Creación de API's, Desarrollo Front-end, Bases de datos.
  - Herramientas: Angular 1.5, Bootstrap.css.
  
  
- ## Educación
+## Educación
 
 `Agosoto 2012 - Diciembre 2016`
  Ingeniería en Computación.<br>
@@ -62,7 +62,7 @@ Creación de API's, Desarrollo Front-end, Bases de datos.
 Arquitectura de sistemas, patrones de diseño, DevOps.
 
 
-## Conocimientos en
+## Conocimientos
 
   __Avanzado__  Javascript, Node.JS, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx, Git, HTML/CSS.
   
