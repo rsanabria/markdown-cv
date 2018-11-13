@@ -33,10 +33,8 @@ Responsable de desarrollar un sistema para digitalizar auditorías internas y si
 - Integración de ambientes y puesta en producción.
 - Revisión de código en todos los niveles.
 - Desarrollo Front-end.
-- Herramientas: Node.JS, Angular, Docker,<br>
-- MongoDB, NGINX, Linux, Let's Encrypt, <br>
-- Kotlin Android,  HTML/CSS, Bootstrap.css,<br>
-- Materialize, Js Report.
+- Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux, Let's Encrypt, <br>
+- Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize, Js Report.
   
  __Full Stack Dev. y Co-Founder  Mosi__ `Octubre de 2017 - Presente`
  
