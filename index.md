@@ -29,7 +29,7 @@ Creación de API's, Desarrollo Front-end, Bases de datos.
 
  __Development Leader  Binary One - Liverpool__ `January de 2017 -today`
  
-Responsible for design and develop a system that digitalizes internal audits and a paperless system. <br>
+Responsible for designing  and developing a system that digitalizes internal audits and a paperless system. <br>
 - Determining project requierments.
 - Development and Deployment of back-end services.
 - Enviorment configuration and production deployment.
