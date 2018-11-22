@@ -15,8 +15,7 @@ Software Engineer
 
 ## Profile
 
-Experience as development leader. Software Architect. Determining project requirements. Full-stack Developer.
-Experiencia como líder de desarrollo. Arquitectura de sistemas. Análisis de los requerimientos del cliente. Desarrollador Full Stack.
+Experience as Lead Developer. Software Architect. Determining project requirements. Full-Stack Developer.
 
 
 ## Specialist
@@ -27,35 +26,26 @@ Creación de API's, Desarrollo Front-end, Bases de datos.
 
 ## Experience
 
- __Development Leader  Binary One - Liverpool__ `January de 2017 -today`
+ __Lead Developer  Binary One - Liverpool__ `January de 2017 - Present`
  
-Responsible for designing  and developing a system that digitalizes internal audits and a paperless system. <br>
+Responsible for designing and developing an internal audit and paperless systems. <br>
 - Determining project requierments.
-- Development and Deployment of back-end services.
+- Development and deployment of back-end services.
 - Enviorment configuration and production deployment.
 - Code review. 
 - Front-End Development.
-Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.<br>
-- Análisis de los requerimientos del cliente.
-- Desarrollo e implementación de servicios Back-end.
-- Implementación de patrones de diseño.
-- Integración de ambientes y puesta en producción.
-- Revisión de código en todos los niveles.
-- Desarrollo Front-end.
 - Tools: Node.JS, Angular, Docker, MongoDB, NGINX, Linux,<br>
 - Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize,<br>
 - Js Report.
   
- __Full Stack Dev. & Co-Founder  Mosi__ `October de 2017 - today`
-- Responsible for designing, developing and deploying back-end services.
-- Development of a web admin platform.
-- Responsable del diseño, desarrollo e implementación Back-end.
-- Desarrollo de plataforma web administrativa.
+ __Full-Stack Dev. & Co-Founder  Mosi__ `October de 2017 - Present`
+- Responsible for designing, developing and deploying Back-End services.
+- Development of a content managment system.
 - Tools: Node.js, MongoDB, Angular, HTML/CSS, Bootstrap.css.
 
- __Web Development__ `January 2016 - April 2016`
+ __Web Developer__ `January 2016 - April 2016`
  
- - Web sites development.
+ - Website development.
  - Tools: Angular 1.5, Bootstrap.css.
  
  
@@ -66,13 +56,12 @@ Responsable de desarrollar un sistema para digitalizar auditorías internas y si
  Facultad de Ingeniería, Universidad Nacional Autónoma de México.
 
 `November 2016 - May 2017`
- Finance course<br>
+ Finance Diploma<br>
  Facultad de Administración, Universidad Nacional Autónoma de México.
  
 
 ## Interested in
-Software Architecture, design patterns, Devops. 
-Arquitectura de sistemas, patrones de diseño, DevOps.
+Software Architecture, design patterns, DevOps. 
 
 
 ## Main Tools
@@ -85,8 +74,7 @@ Arquitectura de sistemas, patrones de diseño, DevOps.
   
 
 ## Skills
- Problem solving, self-taught, quick learner, communication, team work.
- Resolución de problemas, autodidacta, rápido aprendizaje, comunicación, trabajo en equipo.
+ Problem solving, self-taught person, quick learner, communication, team work.
  
  
 ## Languages
