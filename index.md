@@ -25,7 +25,7 @@ API's, Front-End development, databases.
 
 ## Experience
 
- __Lead Developer  Binary One - Liverpool__ `January de 2017 - Present`
+ __Lead Developer  Binary One - Liverpool__ `January 2017 - Present`
  
 Responsible for designing and developing an internal audit and paperless systems. <br>
 - Determining project requierments.
@@ -37,7 +37,7 @@ Responsible for designing and developing an internal audit and paperless systems
 - Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize,<br>
 - Js Report.
   
- __Full-Stack Dev. & Co-Founder  Mosi__ `October de 2017 - Present`
+ __Full-Stack Dev. & Co-Founder  Mosi__ `October 2017 - Present`
 - Responsible for designing, developing and deploying Back-End services.
 - Development of a content managment system.
 - Tools: Node.js, MongoDB, Angular, HTML/CSS, Bootstrap.css.
