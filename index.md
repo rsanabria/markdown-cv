@@ -5,6 +5,7 @@ title: Rodrigo Sanabria
 <br>
 # Rodrigo Sanabria
 Software Engineer
+<br>
 26 years old
 <div id="webaddress">
 <a href="r.sanabriadc@gmail.com">r.sanabriadc@gmail.com</a>
