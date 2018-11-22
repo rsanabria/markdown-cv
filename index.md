@@ -20,8 +20,7 @@ Experience as Lead Developer. Software Architect. Determining project requiremen
 
 ## Specialist
 
-API's, Front-end development, databases.
-Creación de API's, Desarrollo Front-end, Bases de datos.
+API's, Front-End development, databases.
 
 
 ## Experience
@@ -57,7 +56,7 @@ Responsible for designing and developing an internal audit and paperless systems
 
 `November 2016 - May 2017`
  Finance Diploma<br>
- Facultad de Administración, Universidad Nacional Autónoma de México.
+ Facultad de Contaduría y Administración, Universidad Nacional Autónoma de México.
  
 
 ## Interested in
