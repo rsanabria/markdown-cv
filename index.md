@@ -4,7 +4,7 @@ title: Rodrigo Sanabria
 ---
 <br>
 # Rodrigo Sanabria
-Ingeniero de Software
+Software Engineer
 
 <div id="webaddress">
 <a href="r.sanabriadc@gmail.com">r.sanabriadc@gmail.com</a>
@@ -12,20 +12,28 @@ Ingeniero de Software
 55 8597 6336
 
 
-## Perfil
+## Profile
 
+Experience as development leader. Software Architect. Determining project requirements. Full-stack Developer.
 Experiencia como líder de desarrollo. Arquitectura de sistemas. Análisis de los requerimientos del cliente. Desarrollador Full Stack.
 
 
-## Especialista
+## Specialist
 
+API's, Front-end development, databases.
 Creación de API's, Desarrollo Front-end, Bases de datos.
 
 
-## Experiencia
+## Experience
 
- __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Presente`
+ __Development Leader  Binary One - Liverpool__ `January de 2017 -today`
  
+Responsible for design and develop a system that digitalizes internal audits and a paperless system. <br>
+- Determining project requierments.
+- Development and Deployment back-end services.
+- Enviorment configuration and production deployment.
+- Code review. 
+- Front-End Development.
 Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.<br>
 - Análisis de los requerimientos del cliente.
 - Desarrollo e implementación de servicios Back-end.
@@ -33,52 +41,55 @@ Responsable de desarrollar un sistema para digitalizar auditorías internas y si
 - Integración de ambientes y puesta en producción.
 - Revisión de código en todos los niveles.
 - Desarrollo Front-end.
-- Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux,<br>
+- Tools: Node.JS, Angular, Docker, MongoDB, NGINX, Linux,<br>
 - Let's Encrypt, Kotlin Android,  HTML/CSS, Bootstrap.css, Materialize,<br>
 - Js Report.
   
- __Full Stack Dev. y Co-Founder  Mosi__ `Octubre de 2017 - Presente`
- 
+ __Full Stack Dev. & Co-Founder  Mosi__ `October de 2017 - today`
+- Responsible for designing, developing and deploying back-end services.
+- Development of a web admin platform.
 - Responsable del diseño, desarrollo e implementación Back-end.
 - Desarrollo de plataforma web administrativa.
-- Herramientas: Node.js, MongoDB, Angular, HTML/CSS, Bootstrap.css.
+- Tools: Node.js, MongoDB, Angular, HTML/CSS, Bootstrap.css.
 
- __Desarrollador Web__ `Enero de 2016 - Abril 2016`
+ __Web Development__ `January 2016 - April 2016`
  
- - Desarrollo de sitios web.
- - Herramientas: Angular 1.5, Bootstrap.css.
+ - Web sites development.
+ - Tools: Angular 1.5, Bootstrap.css.
  
  
-## Educación
+## Education
 
-`Agosoto 2012 - Diciembre 2016`
+`August 2012 - December 2016`
  Ingeniería en Computación.<br>
  Facultad de Ingeniería, Universidad Nacional Autónoma de México.
 
-`Noviembre 2016 - Mayo 2017`
+`November 2016 - May 2017`
  Diplomado en Finanzas.<br>
  Facultad de Administración, Universidad Nacional Autónoma de México.
  
 
-## Intereses
+## Interested in
+Software Architecture, design patterns, Devops. 
 Arquitectura de sistemas, patrones de diseño, DevOps.
 
 
-## Conocimientos
+## Main Tools
 
-  __Avanzado__  Javascript, Node.JS, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx, Git, HTML/CSS.
+  __Advanced__  Javascript, Node.JS, MongoDB, PostgreSQL, Angular 2+, Linux, Nginx, Git, HTML/CSS.
   
-  __Intermedio__  Kotlin Android, Java,RXJS, RXJAVA, Python, Docker, Docker-compose.
+  __Intermediate__  Kotlin Android, Java,RXJS, RXJAVA, Python, Docker, Docker-compose.
   
-  __Básico__  Go, GRPC, Jenkins.
+  __Basic__  Go, GRPC, Jenkins.
   
 
-## Habilidades
+## Skills
+ Problem solving, self-taught, quick learner, communication, team work.
  Resolución de problemas, autodidacta, rápido aprendizaje, comunicación, trabajo en equipo.
  
  
-## Idiomas
-__Inglés__  Avanzado
+## Languages
+__English__  Advanced
  
 
 
