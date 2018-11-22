@@ -5,7 +5,7 @@ title: Rodrigo Sanabria
 <br>
 # Rodrigo Sanabria
 Software Engineer
-
+26 years old
 <div id="webaddress">
 <a href="r.sanabriadc@gmail.com">r.sanabriadc@gmail.com</a>
 </div>
@@ -61,11 +61,11 @@ Responsable de desarrollar un sistema para digitalizar auditorías internas y si
 ## Education
 
 `August 2012 - December 2016`
- Ingeniería en Computación.<br>
+ Computer Engineering.<br>
  Facultad de Ingeniería, Universidad Nacional Autónoma de México.
 
 `November 2016 - May 2017`
- Diplomado en Finanzas.<br>
+ Finance course<br>
  Facultad de Administración, Universidad Nacional Autónoma de México.
  
 
