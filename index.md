@@ -30,7 +30,7 @@ Creación de API's, Desarrollo Front-end, Bases de datos.
  
 Responsible for design and develop a system that digitalizes internal audits and a paperless system. <br>
 - Determining project requierments.
-- Development and Deployment back-end services.
+- Development and Deployment of back-end services.
 - Enviorment configuration and production deployment.
 - Code review. 
 - Front-End Development.
