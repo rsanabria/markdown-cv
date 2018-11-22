@@ -27,10 +27,10 @@ API's, Front-End development, databases.
 
  __Lead Developer  Binary One - Liverpool__ `January de 2017 - Present`
  
-Responsible for designing and developing an internal audit and paperless systems. <br>
+Responsible for designing and developing an internal audit and a paperless systems. <br>
 - Determining project requierments.
 - Development and deployment of back-end services.
-- Enviorment configuration and production deployment.
+- Environment configuration and production deployment.
 - Code review. 
 - Front-End Development.
 - Tools: Node.JS, Angular, Docker, MongoDB, NGINX, Linux,<br>
@@ -77,7 +77,7 @@ Software Architecture, design patterns, DevOps.
  
  
 ## Languages
-__English__  Advanced
+__English__  Advanced.
  
 
 
