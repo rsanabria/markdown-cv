@@ -69,7 +69,7 @@ Arquitectura de sistemas, patrones de diseño, DevOps.
   
   __Intermedio__  Kotlin Android, Java,RXJS, RXJAVA, Docker, Docker-compose, PostgreSQL.
   
-  __Básico__  Go, Python, RPC.
+  __Básico__  Go, Python, GRPC.
   
 
 ## Habilidades
