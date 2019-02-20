@@ -50,7 +50,7 @@ Responsable de desarrollar un sistema para digitalizar auditorías internas y si
  
 ## Educación
 
-`Agosoto 2012 - Diciembre 2016`
+`Agosto 2012 - Diciembre 2016`
  Ingeniería en Computación.<br>
  Facultad de Ingeniería, Universidad Nacional Autónoma de México.
 
@@ -77,7 +77,7 @@ Arquitectura de sistemas, patrones de diseño, DevOps.
  
  
 ## Idiomas
-__Inglés__  Avanzado
+__Inglés__  Avanzado.
  
 
 
