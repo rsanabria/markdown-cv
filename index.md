@@ -14,12 +14,12 @@ Ingeniero de Software
 
 ## Perfil
 
-Experiencia como líder de desarrollo. Arquitectura de sistemas. Análisis de los requerimientos del cliente. Desarrollador Full Stack.
+Arquitectura de sistemas. Análisis de los requerimientos del cliente. Desarrollador Full Stack.
 
 
 ## Especialista
 
-Creación de API's, Desarrollo Front-end, Bases de datos.
+Creación de API's, Desarrollo Back-end, Desarrollo Front-end, Bases de datos.
 
 
 ## Experiencia
