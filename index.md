@@ -27,9 +27,9 @@ Creación de API's, Desarrollo Back-end, Desarrollo Front-end, Bases de datos.
  __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Presente`
  
 Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.<br>
+- Líder de Desarrollo
 - Análisis de los requerimientos del cliente.
-- Desarrollo e implementación de servicios Back-end.
-- Implementación de patrones de diseño.
+- Desarrollo e implementación de servicios Back-end..
 - Integración de ambientes y puesta en producción.
 - Desarrollo Front-end.
 - Herramientas: Node.JS, Angular, Docker, MongoDB, NGINX, Linux,<br>
