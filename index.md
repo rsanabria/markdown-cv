@@ -14,7 +14,7 @@ Ingeniero de Software
 
 ## Perfil
 
-Arquitectura de sistemas. Análisis de los requerimientos del cliente. Desarrollador Full Stack.
+Arquitectura de sistemas. Análisis de los requerimientos. Desarrollador Full Stack.
 
 
 ## Especialista
@@ -23,8 +23,16 @@ Creación de API's, Desarrollo Back-end, Desarrollo Front-end, Bases de datos.
 
 
 ## Experiencia
+ __Desarrollador Back-end - Bambú mobile__ `Marzo 2019 - Presente`
+ 
+ Desarrollador back-end enfocado en el desarrollo de sistemas con Node.js<br>
+- Integración de servicios externos.
+- Análisis de los requerimientos del cliente.
+- Desarrollo e implementación de servicios Back-end.
+- Integración de ambientes y puesta en producción.
+- Herramientas: Node.JS, Firebase, Docker, Postgres, Dialogflow, Google Cloud Platform 
 
- __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Presente`
+ __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Febrero 2019`
  
 Responsable de desarrollar un sistema para digitalizar auditorías internas y sistema paperless para procesos internos.<br>
 - Líder de Desarrollo
