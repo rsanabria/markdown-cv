@@ -13,24 +13,31 @@ Ingeniero de Software
 
 
 ## Perfil
-
-Arquitectura de sistemas. Análisis de los requerimientos. Desarrollador Full Stack.
+Tech Lead. Desarrollador Back-end. Desarrollador Full Stack.
 
 
 ## Especialista
 
-Creación de API's, Desarrollo Back-end, Desarrollo Front-end, Bases de datos.
+Arquitectura de sistemas, Creación de API's, Desarrollo Back-end, Desarrollo Front-end, Bases de datos.
 
 
 ## Experiencia
- __Desarrollador Back-end - Bambú mobile__ `Marzo 2019 - Presente`
- 
+ __Tech Lead - Bambú mobile__ `Marzo 2019 - Presente`
+ Tech Lead <br>
+- Análisis de requerimientos
+- Propuestas de arquitectura
+- Diseño de soluciones
+- Diseño de Base de datos
+- Facilitador de tareas (team player)
+- Mentoría y capacitación
+- Revisiones de código
+- Desarrollo fullstack
  Desarrollador back-end enfocado en el desarrollo de sistemas con Node.js<br>
 - Integración de servicios externos.
 - Análisis de los requerimientos del cliente.
 - Desarrollo e implementación de servicios Back-end.
 - Integración de ambientes y puesta en producción.
-- Herramientas: Node.JS, Firebase, Docker, Postgres, Dialogflow, Google Cloud Platform 
+- Herramientas: Node.JS, Firebase, Docker, Postgres, Dialogflow, Google Cloud Platform, AWS.
 
  __Líder de desarrollo  Binary One - Liverpool__ `Enero de 2017 - Febrero 2019`
  
@@ -68,12 +75,12 @@ Responsable de desarrollar un sistema para digitalizar auditorías internas y si
  
 
 ## Intereses
-Arquitectura de sistemas, patrones de diseño, DevOps.
+Arquitectura de sistemas, patrones de diseño, DevOps, IoT, transformación digital.
 
 
 ## Conocimientos
 
-  __Avanzado__  Javascript, Node.JS, MongoDB, Angular 2+, Linux, Nginx, Git, HTML/CSS.
+  __Avanzado__  Javascript,Typescript, Node.JS, MongoDB, Angular 2+, Linux, Nginx, Git, HTML/CSS, Firebase.
   
   __Intermedio__  Kotlin Android, Java,RXJS, RXJAVA, Docker, Docker-compose, PostgreSQL.
   
@@ -81,7 +88,7 @@ Arquitectura de sistemas, patrones de diseño, DevOps.
   
 
 ## Habilidades
- Resolución de problemas, autodidacta, rápido aprendizaje, comunicación, trabajo en equipo.
+ Resolución de problemas, liderazgo, autodidacta, rápido aprendizaje, comunicación, trabajo en equipo.
  
  
 ## Idiomas
