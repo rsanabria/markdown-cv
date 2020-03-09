@@ -18,7 +18,7 @@ Tech Lead. Desarrollador Back-end. Desarrollador Full Stack.
 
 ## Especialista
 
-Arquitectura de sistemas, Creación de API's, Desarrollo Back-end, Desarrollo Front-end, Bases de datos.
+Arquitectura de sistemas, Creación de API's, Desarrollo Back-end, Bases de datos.
 
 
 ## Experiencia
